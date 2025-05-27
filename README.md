@@ -10,3 +10,5 @@ my assumptions are pretty much clear and meets the goal which state down in the 
 which is to make a dashboard so advance that it can show my sites traffic in one place with graph/Charts.
 so i do not need to go one by one on my several websites to check-In.
 i believe it is what required from my side and it is what i delivered.
+please go through code once and do tell me or guide me to what and where i can perform better or enhanced it.
+thanks.
